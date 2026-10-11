@@ -143,26 +143,14 @@ pip install opencv-python numpy mediapipe scipy
 
 ## 📷 Galería y Demostración
 
-> *Espacio reservado para agregar capturas de pantalla, diagramas y resultados visuales del proyecto.*
 
 ### Disposición de las Cámaras (Setup)
 <!-- PLACEHOLDER_IMG_SETUP: Agrega aquí un diagrama o foto del ángulo y posición de las cámaras -->
-![Disposición de Cámaras](https://via.placeholder.com/800x400.png?text=Placeholder:+Diagrama+o+Foto+del+Setup+de+Dos+Cámaras)
-
----
-
-### Detección 2D y Triangulación Epipolar
-<!-- PLACEHOLDER_IMG_2D_DETECTION: Agrega aquí capturas de MediaPipe detectando los landmarks en ambas cámaras -->
-![Detección 2D en Dos Cámaras](https://via.placeholder.com/800x400.png?text=Placeholder:+Detección+MediaPipe+en+Cámara+1+y+Cámara+2)
-
----
-
-### Reconstrucción del Esqueleto 3D
-<!-- PLACEHOLDER_IMG_3D_SKELETON: Agrega aquí una imagen de la nube de puntos 3D o del esqueleto reconstruido -->
-![Reconstrucción 3D](https://via.placeholder.com/800x400.png?text=Placeholder:+Esqueleto+3D+Triangulado+y+Filtrado)
+![Disposición de Cámaras](<img width="2489" height="1487" alt="Disposicion_camaras" src="https://github.com/user-attachments/assets/7d03f7d5-9435-4df6-b5e9-b8388c266d78" />
+)
 
 ---
 
 ### Resultado Final en Blender
 <!-- PLACEHOLDER_IMG_BLENDER_RESULT: Agrega aquí un render o captura del viewport de Blender animando el modelo -->
-![Resultado en Blender](https://via.placeholder.com/800x400.png?text=Placeholder:+Modelo+3D+Animado+en+Blender)
+![Resultado en Blender](<img width="472" height="240" alt="1011" src="https://github.com/user-attachments/assets/fda3604d-49d7-43eb-8d8d-84492ffa5c70" />)
