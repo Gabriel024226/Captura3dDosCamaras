@@ -145,12 +145,9 @@ pip install opencv-python numpy mediapipe scipy
 
 
 ### Disposición de las Cámaras (Setup)
-<!-- PLACEHOLDER_IMG_SETUP: Agrega aquí un diagrama o foto del ángulo y posición de las cámaras -->
-![Disposición de Cámaras](<img width="2489" height="1487" alt="Disposicion_camaras" src="https://github.com/user-attachments/assets/7d03f7d5-9435-4df6-b5e9-b8388c266d78" />
-)
+<img width="2489" height="1487" alt="Disposicion_camaras" src="https://github.com/user-attachments/assets/7d03f7d5-9435-4df6-b5e9-b8388c266d78" />
 
 ---
 
 ### Resultado Final en Blender
-<!-- PLACEHOLDER_IMG_BLENDER_RESULT: Agrega aquí un render o captura del viewport de Blender animando el modelo -->
-![Resultado en Blender](<img width="472" height="240" alt="1011" src="https://github.com/user-attachments/assets/fda3604d-49d7-43eb-8d8d-84492ffa5c70" />)
+<img width="472" height="240" alt="1011" src="https://github.com/user-attachments/assets/fda3604d-49d7-43eb-8d8d-84492ffa5c70" />
