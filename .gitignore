@@ -1,0 +1,24 @@
+# Archivos de caché y datos temporales
+*.pose2d.npz
+*.task
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+.env
+
+# Blender y temporales del sistema
+*.blend1
+*.blend2
+Thumbs.db
+.DS_Store
